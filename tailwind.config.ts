@@ -14,6 +14,8 @@ const config: Config = {
         'card-bg': '#1a1a1a',
         'text-secondary': '#a0a0a0',
         'border-color': '#333333',
+        'accent-blue': '#3b82f6', // Add this
+        'accent-green': '#10b981', // Add this
       },
       boxShadow: {
         'custom': '0 4px 6px -1px rgba(0, 0, 0, 0.5), 0 2px 4px -1px rgba(0, 0, 0, 0.3)',
@@ -24,4 +26,3 @@ const config: Config = {
   plugins: [],
 };
 export default config;
-
